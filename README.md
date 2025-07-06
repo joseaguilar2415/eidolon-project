@@ -1,6 +1,8 @@
 # eidolon-project
 It's a versatile, modular AI system designed to learn, adapt, and interact in meaningful ways.
 
+Completion is the chat log for first conversation. After is the Eidolon's Evolution and Moral Flexibility, then AI limitations in creating, finally USER_7A3F.
+
 1. cradle/memory_system.py
 markdown
 Copy
